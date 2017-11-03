@@ -4,4 +4,4 @@ go:
  
   1.6
  
-go_import_path: ./..gomain/functions
+go_import_path: github.com/oleksandrkravchuk87/gomain/functions
